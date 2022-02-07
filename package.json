@@ -1,0 +1,27 @@
+{
+  "name": "scottricity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timothy3773/scottricity.git"
+  },
+  "author": "Jonathan Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timothy3773/scottricity/issues"
+  },
+  "homepage": "https://github.com/Timothy3773/scottricity#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs-extra": "^10.0.0",
+    "moment": "^2.29.1",
+    "got": "~11.8.3",
+    "express": "^4.17.2",
+    "body-parser": "^1.19.1"
+  }
+}
